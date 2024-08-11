@@ -1,0 +1,38 @@
+# الإصدار الأخير من setuptools
+setuptools>=72.1.0
+
+# الإصدار الأخير من pip
+pip>=24.2
+
+# الإصدار المحدد من Streamlit
+streamlit==1.15.2
+
+# إصدار متوافق من pandas
+pandas==1.5.3
+
+# numpy المتوافق مع pandas
+numpy>=1.23.2
+
+# مكتبة openpyxl لمعالجة ملفات Excel
+openpyxl
+
+# مكتبة Pyarrow لتسريع عمليات البيانات (إذا كنت بحاجة إليها)
+pyarrow
+
+# مكتبة Pillow لمعالجة الصور (قد تكون مطلوبة لـ Streamlit)
+pillow
+
+# مكتبة Altair لإنشاء الرسوم البيانية (إذا كنت بحاجة إليها)
+altair
+
+# مكتبة Watchdog لمراقبة التغييرات في الملفات
+watchdog
+
+# مكتبة Matplotlib لإنشاء الرسوم البيانية
+matplotlib
+
+# مكتبة Scikit-learn لأدوات التعلم الآلي (إذا كنت بحاجة إليها)
+scikit-learn
+
+# مكتبة Scipy للعمليات العلمية
+scipy
